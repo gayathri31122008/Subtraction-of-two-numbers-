@@ -19,5 +19,4 @@ void main()
    (c=b-a);
    printf ("on subtracting the small value from big value we get %d \n",c);
   }
- 
-}
+ }
